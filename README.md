@@ -1,4 +1,4 @@
-# test
+# Vue Js Frontend
 
 ## Project setup
 ```
